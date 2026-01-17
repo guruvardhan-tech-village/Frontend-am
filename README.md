@@ -163,7 +163,7 @@ This project follows web accessibility best practices:
 2. Create a feature branch
 3. Make your changes
 4. Test across different browsers and devices
-5. Submit a pull request
+5. Submit a pull request.
 
 ## License
 
