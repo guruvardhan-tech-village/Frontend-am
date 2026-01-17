@@ -1,4 +1,4 @@
-# Netflix-Inspired Frontend
+# Netflix-Inspired Frontend Design
 
 A modern, responsive Netflix-inspired frontend web application built with vanilla HTML, CSS, JavaScript, and Tailwind CSS. This project recreates the Netflix streaming service interface with professional design aesthetics, interactive features, and responsive layouts.
 
