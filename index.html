@@ -153,9 +153,15 @@
     </main>
 
     <!-- Modal Overlay (Initially Hidden) -->
-    <div class="modal-overlay fixed inset-0 bg-black bg-opacity-80 z-50 hidden flex items-center justify-center p-4" role="dialog" aria-modal="true" aria-labelledby="modal-title">
-        <div class="modal-content bg-gray-900 rounded-lg max-w-4xl w-full max-h-screen overflow-y-auto">
+    <div class="modal-overlay fixed inset-0 bg-black bg-opacity-80 z-50 hidden flex items-center justify-center p-4" role="dialog" aria-modal="true" aria-labelledby="modal-title" aria-describedby="modal-description">
+        <div class="modal-content bg-gray-900 rounded-lg max-w-4xl w-full max-h-screen overflow-y-auto relative shadow-2xl">
             <!-- Modal content will be dynamically populated -->
+            <div class="modal-placeholder p-8 text-center text-gray-400">
+                <div class="animate-pulse">
+                    <div class="h-4 bg-gray-700 rounded w-3/4 mx-auto mb-4"></div>
+                    <div class="h-4 bg-gray-700 rounded w-1/2 mx-auto"></div>
+                </div>
+            </div>
         </div>
     </div>
 
