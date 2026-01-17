@@ -1,0 +1,97 @@
+{
+  "hero": {
+    "id": "hero-featured",
+    "title": "Stranger Things",
+    "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+    "poster": "https://via.placeholder.com/200x300/E50914/ffffff?text=Stranger+Things",
+    "backdrop": "https://via.placeholder.com/1920x1080/141414/ffffff?text=Stranger+Things+Hero",
+    "year": 2024,
+    "rating": 8.7,
+    "duration": "Season 4",
+    "genres": ["Drama", "Fantasy", "Horror"],
+    "cast": ["Millie Bobby Brown", "Finn Wolfhard", "David Harbour"],
+    "type": "tv-show",
+    "category": "featured"
+  },
+  "categories": [
+    {
+      "id": "trending",
+      "title": "Trending Now",
+      "items": [
+        {
+          "id": "trending-1",
+          "title": "Action Movie 1",
+          "description": "An exciting action-packed adventure with stunning visuals and compelling characters.",
+          "poster": "https://via.placeholder.com/200x300/333333/ffffff?text=Action+1",
+          "backdrop": "https://via.placeholder.com/800x450/333333/ffffff?text=Action+Backdrop",
+          "year": 2024,
+          "rating": 8.5,
+          "duration": "2h 15m",
+          "genres": ["Action", "Adventure", "Thriller"],
+          "cast": ["Actor One", "Actor Two", "Actor Three"],
+          "type": "movie",
+          "category": "trending"
+        },
+        {
+          "id": "trending-2",
+          "title": "Drama Series 1",
+          "description": "A gripping drama series that explores complex relationships and human emotions.",
+          "poster": "https://via.placeholder.com/200x300/444444/ffffff?text=Drama+1",
+          "backdrop": "https://via.placeholder.com/800x450/444444/ffffff?text=Drama+Backdrop",
+          "year": 2024,
+          "rating": 9.2,
+          "duration": "45m episodes",
+          "genres": ["Drama", "Romance", "Family"],
+          "cast": ["Actress One", "Actor Four", "Actress Two"],
+          "type": "tv-show",
+          "category": "trending"
+        }
+      ]
+    },
+    {
+      "id": "popular-movies",
+      "title": "Popular Movies",
+      "items": [
+        {
+          "id": "movie-1",
+          "title": "Comedy Movie 1",
+          "description": "A hilarious comedy that will keep you laughing from start to finish.",
+          "poster": "https://via.placeholder.com/200x300/555555/ffffff?text=Comedy+1",
+          "backdrop": "https://via.placeholder.com/800x450/555555/ffffff?text=Comedy+Backdrop",
+          "year": 2023,
+          "rating": 7.8,
+          "duration": "1h 45m",
+          "genres": ["Comedy", "Romance"],
+          "cast": ["Comedian One", "Actress Three", "Actor Five"],
+          "type": "movie",
+          "category": "popular-movies"
+        }
+      ]
+    },
+    {
+      "id": "tv-shows",
+      "title": "TV Shows",
+      "items": [
+        {
+          "id": "tv-1",
+          "title": "Sci-Fi Series 1",
+          "description": "A mind-bending science fiction series set in a dystopian future.",
+          "poster": "https://via.placeholder.com/200x300/666666/ffffff?text=SciFi+1",
+          "backdrop": "https://via.placeholder.com/800x450/666666/ffffff?text=SciFi+Backdrop",
+          "year": 2024,
+          "rating": 8.9,
+          "duration": "50m episodes",
+          "genres": ["Sci-Fi", "Thriller", "Drama"],
+          "cast": ["Actor Six", "Actress Four", "Actor Seven"],
+          "type": "tv-show",
+          "category": "tv-shows"
+        }
+      ]
+    },
+    {
+      "id": "my-list",
+      "title": "My List",
+      "items": []
+    }
+  ]
+}
