@@ -175,5 +175,4 @@ This project is for educational purposes. Netflix is a trademark of Netflix, Inc
 - Tailwind CSS for the utility-first CSS framework
 - Modern web standards for accessibility and performance guidelines
 =======
-# Frontend-am
 
